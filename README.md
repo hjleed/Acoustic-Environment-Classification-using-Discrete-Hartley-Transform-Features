@@ -18,4 +18,4 @@ This paper presents a new approach for acoustic environment classification based
  }
  
  # Blockdiagram:
- ![alt text](http://https://github.com/hjleed/Acoustic-Environment-Classification-using-Discrete-Hartley-Transform-Features/blob/master/Picture1.png)
+ ![alt text](https://github.com/hjleed/Acoustic-Environment-Classification-using-Discrete-Hartley-Transform-Features/blob/master/img/Picture1.png)
