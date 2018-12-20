@@ -1,0 +1,10 @@
+scenes_stereo\bus09.wav 	 bus 
+scenes_stereo\busystreet09.wav 	 busystreet 
+scenes_stereo\office09.wav 	 office 
+scenes_stereo\openairmarket09.wav 	 openairmarket 
+scenes_stereo\park09.wav 	 park 
+scenes_stereo\quietstreet09.wav 	 quietstreet 
+scenes_stereo\restaurant09.wav 	 restaurant 
+scenes_stereo\supermarket09.wav 	 supermarket 
+scenes_stereo\tube09.wav 	 tube 
+scenes_stereo\tubestation09.wav 	 tubestation 
